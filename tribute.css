@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+#headbanner {
+  background-color: #eee;
+  text-align: center;
+  padding-top: 0.5%;
+  padding-bottom: 0.5%;
+}
+#imageSection {
+  margin: 10%;
+}
